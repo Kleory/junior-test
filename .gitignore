@@ -13,9 +13,5 @@ yarn-error.log*
 tags
 
 /src
-/webpack
-.eslintignore
-.eslintrc
-.editorconfig
-.json
+
 
